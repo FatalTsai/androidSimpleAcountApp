@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">account</string>
+    <string name="submit">確認</string>
+    <string name="title_activity_record">record</string>
+    <string name="title_activity_analysis">analysis</string>
+    <string name="price">價格</string>
+    <string name="product_name">商品名</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">account</string>
+    <string name="submit">submit</string>
+    <string name="title_activity_record">record</string>
+    <string name="title_activity_analysis">analysis</string>
+    <string name="price">price</string>
+    <string name="product_name">product name</string>
+</resources>
